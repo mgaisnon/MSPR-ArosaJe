@@ -1,0 +1,9 @@
+{
+    "require": {
+        "symfony/ux-react": "^2.13",
+        "doctrine/doctrine-bundle": "^2.11"
+    },
+    "require-dev": {
+        "fzaninotto/faker": "^1.5"
+    }
+}
